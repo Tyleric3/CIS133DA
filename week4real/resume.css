@@ -1,0 +1,90 @@
+/* Set the font for the entire document to a serif font and a size of 16px */
+body {
+    font-family: serif;
+    font-size: 16px;
+}
+
+/* Set the font for headings to a sans-serif font and an RGB color of 33, 87, 51 */
+h1, h2, h3 {
+    font-family: sans-serif;
+    color: rgb(33, 87, 51);
+}
+
+/* Set the font size for different headings */
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+/* Align H1 to the center and set its background color */
+h1 {
+    text-align: center;
+    background-color: rgb(75, 133, 94);
+}
+
+/* Set the border for the horizontal rule */
+hr {
+    border: 3px solid rgb(33, 87, 51);
+}
+
+/* Center the paragraph with the "address" ID */
+#address {
+    text-align: center;
+}
+
+/* Set the list style type of unordered lists to square */
+ul {
+    list-style-type: square;
+}
+/* Set the font for the entire document to a serif font and a size of 16px */
+body {
+    font-family: serif;
+    font-size: 16px;
+}
+
+/* Set the font for headings to a sans-serif font and an RGB color of 33, 87, 51 */
+h1, h2, h3 {
+    font-family: sans-serif;
+    color: rgb(33, 87, 51);
+}
+
+/* Set the font size for different headings */
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+/* Align H1 to the center and set its background color */
+h1 {
+    text-align: center;
+    background-color: rgb(75, 133, 94);
+}
+
+/* Set the border for the horizontal rule */
+hr {
+    border: 3px solid rgb(33, 87, 51);
+}
+
+/* Center the paragraph with the "address" ID */
+#address {
+    text-align: center;
+}
+
+/* Set the list style type of unordered lists to square */
+ul {
+    list-style-type: square;
+}
