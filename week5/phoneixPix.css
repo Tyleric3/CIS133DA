@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.image-container img {
+    height: 200px; /* Set the same height for all images */
+    width: 300px; /* Set the same width for all images */
+    border: 2px solid #333; /* Add a border to all images */
+}
+
+.image-effect {
+    /* Add your own CSS effect here for each image */
+    /* Example: */
+    transition: transform 0.3s ease-in-out;
+}
+
+.image-effect:hover {
+    transform: scale(1.1); /* Increase size on hover */
+}
